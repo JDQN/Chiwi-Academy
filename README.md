@@ -11,10 +11,10 @@
 <h2> 👨🏻•💻  TEAM 👨🏻•💻 </h2>
 
 
-- 🎓 &nbsp; Sara Salas.
+- 🎓 &nbsp; Sara Salas Perez.
 - 🎓 &nbsp; Yuri Andrea.
-- 🎓 &nbsp; Jose Jimenez.
-- 🎓 &nbsp; Leandro.
+- 🎓 &nbsp; Jose Jiménez.
+- 🎓 &nbsp; Leandro Gutierrez.
 - 🎓 &nbsp; Juan David Quimbayo Nuñez.
 
 
