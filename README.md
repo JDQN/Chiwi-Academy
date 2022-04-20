@@ -1,10 +1,27 @@
-# Posty
+### Chiwi Academi 👋 💻 🤓 🖥
 
-The code for the Posty project, from the Traversy Media Laravel crash course.
+<p>
+ Diseñar y desarrollar una aplicación para la gestión de eventos o meetups on-line.
+</p>
 
-Feel free to use this code however you like!
 
-# Links
+<p><em> EducaMas -> <a href="https://educamas.com.co/"> EducaMas - Programate</a>, Regional. 💻 </br>
+</em></p>
 
-* [Codecourse](https://codecourse.com)
-* [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+<h2> 👨🏻•💻  TEAM 👨🏻•💻 </h2>
+
+
+- 🎓 &nbsp; Sara Salas.
+- 🎓 &nbsp; Yuri Andrea.
+- 🎓 &nbsp; Jose Jimenez.
+- 🎓 &nbsp; Leandro.
+- 🎓 &nbsp; Juan David Quimbayo Nuñez.
+
+
+<h3>🛠 Stack 🛠 </h3>
+
+- 🌐 &nbsp; HTML5 | CSS3 | Tailwind |
+- 🛢 &nbsp; Mongo BD | 
+- 💻 &nbsp; Laravel PHP |
+- 🖥 &nbsp; Deploying | 
+
